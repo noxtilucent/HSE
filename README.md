@@ -1,6 +1,6 @@
-# HSE homeworks
+# Higher School of Economics homeworks
 
-Этот репозиторий содержит мои домашние задания по дисциплинам HSE.
+Этот репозиторий содержит мои домашние задания по дисциплинам Higher School of Economics.
 
 ---
 
